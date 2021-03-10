@@ -9,4 +9,4 @@ This dataset contains animal rescue information such as Data of the incidence, T
 4. Where do animals usually encounter problem? (Geographical Visualization - Both token needed or not methods)
 5. How could we predict the incurred cost.
 
-For more details, please check the [Analysis and Visualization of Animal Rescue Incidents happened in London.ipynb]<https://github.com/Chane9/Analysis-and-Visualization-of-Animal-Rescue-Incidents-happened-in-London/blob/main/Analysis%20and%20Visualization%20of%20Animal%20Rescue%20Incidents%20happened%20in%20London.ipynb> file. I sincerely hope more and more people would be willing to give a helping hand when animals are in need.
+For more details, please check the [Analysis and Visualization of Animal Rescue Incidents happened in London.ipynb](https://github.com/Chane9/Analysis-and-Visualization-of-Animal-Rescue-Incidents-happened-in-London/blob/main/Analysis%20and%20Visualization%20of%20Animal%20Rescue%20Incidents%20happened%20in%20London.ipynb) file. I sincerely hope more and more people would be willing to give a helping hand when animals are in need.
